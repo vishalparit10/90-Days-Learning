@@ -1,12 +1,12 @@
 AWS DevOps:
 
-Followed TWS AZH course to learn AWS Devops- CodeCommit,CodeBuild. 
+1. Followed TWS AZH course to learn AWS Devops- CodeCommit,CodeBuild. 
 
-Used CodeCommit to create repository and then using VScode pushed locally created index, buildspec files to repository.
+2. Used CodeCommit to create repository and then using VScode pushed locally created index, buildspec files to repository.
 
-Then Using CodeBuild create build, and if it works fine we can use Artifacts for Artifacts upload location, here created S3 bucket.
+3. Then Using CodeBuild create build, and if it works fine we can use Artifacts for Artifacts upload location, here created S3 bucket.
 
-Then retry build to get the artifacts stored to S3.
+4. Then retry build to get the artifacts stored to S3.
 
 
 - create repository by going to codecommit.
