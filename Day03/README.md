@@ -1,7 +1,7 @@
 Day 3: 16/12/2023
 
-Attended Terrform session from trainwithshubham.
-Understood the terrform basics: 
+1. Attended Terrform session from trainwithshubham.
+2. Understood the terrform basics: 
 
 Created AWS ServerLess Project: using Serverless Framawork using python (aws-node-http-api-project)
 
